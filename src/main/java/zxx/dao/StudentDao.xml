@@ -9,4 +9,7 @@
     <insert id="insertStudent">
          insert into student(name,email,age) values(#{name},#{email},#{age});
     </insert>
+    <select id="ddd">
+
+    </select>
 </mapper>
